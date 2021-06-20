@@ -9,15 +9,15 @@ Galacticraft: https://micdoodle8.com/mods/galacticraft/downloads
 https://wiki.micdoodle8.com/wiki/Modpack_Permission
 
 
-# Jokes (unrelated to the modpack)
-## Uh
+## Jokes (unrelated to the modpack)
+### Uh
 pink cute
 eriss cute
 goobie cute
 scad man
 bixel poom
 
-## Mods
+### Mods
 This modpack has the following Quest mods:
 
 - Chroma
