@@ -1,6 +1,6 @@
 # BSMG Modpack v1
 
-This is the server for the modpack at [CurseForge](https://www.curseforge.com/minecraft/modpacks/bsmg-modded-v1). Client downloads will be over there and in `Releases`.
+This is the server for the modpack at [CurseForge](https://www.curseforge.com/minecraft/modpacks/bsmg-modded-v1). Client downloads will be over there and at [this Github Repo](https://github.com/Fernthedev/bsmg-modpack-v1-client).
 
 This modpack is designed for the BSMG team Minecraftt server.
 
@@ -29,7 +29,7 @@ This modpack has the following Quest mods:
 
 ## We accept PRs!
 
-You can PR mods here (though if they require clients to also have the mods it muust be mentioned). Configuration suggestions and issues can also be posted here.
+You can PR mods here (though if they require clients to also have the mods they must be PR'ed at [here](https://github.com/Fernthedev/bsmg-modpack-v1-client)). Configuration suggestions and issues can also be posted here.
 
 # To run server
 
