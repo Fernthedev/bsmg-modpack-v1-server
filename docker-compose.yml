@@ -1,0 +1,11 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  mcserver:
+    # restart: unless_stopped
+    image: "openjdk:8"
+    ports:
+      - "25565:25565"
+    volumes:
+      - .:/mcserver
+    working_dir: "/mcserver"
+    command: bash -c "./ServerStart.sh"
