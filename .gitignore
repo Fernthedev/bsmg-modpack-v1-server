@@ -11,6 +11,7 @@ local
 llibrary
 modpack
 crash-reports
+debug/
 
 usercache.json
 whitelist.json
@@ -21,3 +22,4 @@ banned-players.json
 ops.json
 minetweaker.log
 eula.txt
+*.so
